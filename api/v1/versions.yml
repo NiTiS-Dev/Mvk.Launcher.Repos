@@ -1,8 +1,10 @@
 versions:
 - type: v0Mapper
+  name:
   uri: "https://raw.githubusercontent.com/NiTiS-Dev/Mvk.Launcher.Repos/singleton/api/v0/versions.txt"
 - type: v1Version
   name: "TEST"
   uri: "http://superant.by/mvk/0.0.0.6.rar"
 - type: v1Mapper
+  name:
   uri: "https://raw.githubusercontent.com/NiTiS-Dev/Mvk.Launcher.Repos/singleton/api/v1/superant.list"
